@@ -1,5 +1,6 @@
-Learning Front-End Development, some Java and C++.
-Only personal small projects
+Only personal and self-made small projects.
+
+Accepting every negative review.
 
 <!---
 OhFrancy/OhFrancy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
