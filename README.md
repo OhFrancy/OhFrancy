@@ -16,7 +16,7 @@
   
   Learn about Embedded Programming
   
-  Learn how to interact with hardware
+  Learn more on how to interact with hardware
 
   Learn CE and CS more in-depth
 
