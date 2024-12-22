@@ -4,7 +4,7 @@
 
 #### 🔥 I'm a new programmer that is loving every second of this journey
 
-#### ✨ I love making projects from scratch, such as Web apps, small shell scripts, Python scripts and, mainly low-level language projects!. I also try to contribute as much as I can to other projects. ✨
+#### ✨ I love making projects from scratch, such as Web apps, small shell scripts, Python scripts and, mainly, low-level language projects!. I also try to contribute as much as I can to other projects. ✨
 
 ## 🎯GOALS :
 
