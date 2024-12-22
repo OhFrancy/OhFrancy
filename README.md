@@ -2,15 +2,13 @@
 
 ### About Me:
 
-#### 🔥 I'm a new programmer that is trying to achieve his dream of working as one. 🔥
+#### 🔥 I'm a new programmer that is loving every second of this journey
 
-#### ✨ I like making projects from scratch, such as Web apps, small shell scripts, or low-level language projects. I also try to contribute as much as I can to other projects. ✨
-
-#### 📈 Outside of tech I love reading books about new languages, self-growth and financial advises. 📈
+#### ✨ I love making projects from scratch, such as Web apps, small shell scripts, Python scripts and, mainly low-level language projects!. I also try to contribute as much as I can to other projects. ✨
 
 ## 🎯GOALS :
 
-  Learn more about C-lang and get started with Assembler
+  Learn more about C-lang and get started with Assembler(x86/x64)
   
   Learn about OS Development
   
